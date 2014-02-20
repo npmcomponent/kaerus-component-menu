@@ -1,0 +1,10 @@
+{
+  "name": "kaerus-component-menu",
+  "description": "nested selection menu",
+  "version": "0.2.0",
+  "styles": [
+    "stylesheet.css"
+  ],
+  "dependencies": {},
+  "license": "Apache2_0"
+}
